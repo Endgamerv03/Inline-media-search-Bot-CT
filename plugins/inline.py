@@ -4,7 +4,7 @@ from pyrogram import Client, emoji, filters
 
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, InlineQueryResultCachedDocument
 
-from utils import get_search_results
+from utils import get_search_results, is_subscribed
 
 
 from info import CACHE_TIME, AUTH_USERS, AUTH_CHANNEL, CUSTOM_FILE_CAPTION
