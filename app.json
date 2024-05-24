@@ -13,11 +13,11 @@
       "index",
       "inline"
     ],
-    "website": "https://www.youtube.com/channel/UCvYfJcTr8RY72dIapzMqFQA",
+    "website": "https://www.youtube.com/@MK-ICE-VS-FIRE",
     "repository": "https://github.com/Naviya2/LeoMediaSearchBot",
     "env": {
         "BOT_TOKEN": {
-            "description": "Your bot token.",
+            "description": "7021446612:AAFjm151tsmkJi5_1HiuiSLkuGKfnhAesEo.",
             "value": ""
         },
         "USERBOT_STRING_SESSION": {
@@ -30,25 +30,25 @@
             "required": true
         },
         "APP_ID": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "26563476",
             "value": ""
         },
         "API_HASH": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "b41ca00bf5af76916f657232fcc06d63",
             "value": ""
         },
         "BOT_OWNER": {
-            "description": "Bot Owner UserID"
+            "description": "6715620197"
         },
         "BOT_USERNAME":{
-            "description": "Bot username without @"
+            "description": "PcGaMesDownloadbot"
         },
         "UPDATES_CHANNEL": {
-            "description": "ID of a Channel which you want to do Force Sub to use the bot. Example: -100123456789",
+            "description": "-1001675760086 ",
             "required": false
         },
         "LOG_CHANNEL": {
-            "description": "Logs Channel ID for some Tracking XD. Example: -100123456789"
+            "description": "-4256007791"
         },
         "BROADCAST_AS_COPY": {
             "description": "Broadcast as Copy or with Forward Tag. Value should be True/False."
@@ -58,11 +58,11 @@
             "required": false
         },
         "CHANNELS": {
-            "description": "Username or ID of database channel or group. Separate multiple IDs by space.",
+            "description": "-4251111921 ",
             "value": ""
         },
         "ADMINS": {
-            "description": "Username or ID of Admin. Separate multiple Admins by space.",
+            "description": "@Dark_Hunterv",
             "value": ""
         },
         "AUTH_USERS": {
@@ -76,12 +76,12 @@
         },
         "START_MSG": {
             "description": "A Massege for view at start. If you want to change it you can change it here",
-            "value": "**Hi {}👋\n\nI'm Mod app  Bot**\n\nYou can start searching by the 'Search Mod app  🔎' button below 😊",
+            "value": "**Hi {}👋\n\nI'm Inline Media Bot**\n\nYou can start searching by the 'Search Mod app  🔎' button below 😊",
             "required": false
         },
         "SHARE_BUTTON_TEXT": {
             "description": "A Massege for add to share button. If you want to change it you can change it here",
-            "value": "**Mod app  Search Bot 🇱🇰**\n\n`Here you can find any Mod app  by searching its name 😊´\n\nBot : {username} 🤖\nSupport Group : @slbotzone 🇱🇰\nUpdates Channel: @sl_bot_zone 🇱🇰\nDevelopper : @supunma 🇱🇰",
+            "value": "**Mod app  Search Bot 🇱🇰**\n\n`Here you can find any Mod app  by searching its name 😊´\n\nBot : {username} 🤖\nSupport Group : @PCgamesdownloadable\nUpdates Channel: @pc_gamesdl : @Download_PcGames",
             "required": false
         },
         "USE_CAPTION_FILTER": {
@@ -90,16 +90,16 @@
             "required": false
         },
         "DATABASE_URI": {
-            "description": "This is the db which use to save files to work inline search.. get it from mongodb.com",
+            "description": "mongodb+srv://mehelithjayathilake:<fxnu9IXYpDrRwVtW>@cluster0.nxmp4fy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
             "value": "",
             "required": true
         },
         "MONGODB_URI": {
-            "description": "mongo based db for save users in db .. Dont use the inline search bots database URI",
+            "description": "atlas clusters connectionStrings describe <Cluster0> --projectId <PROJECT 0>",
             "required": true
         },
         "DATABASE_NAME": {
-            "description": "Name of the database in mongoDB.",
+            "description": "Cluster0.",
             "value": "",
             "required": true
         },
